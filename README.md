@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C#,JAVA**
 
-- 📫 How to reach me **masterpiyaboot@gmai.com**
+- 📫 How to reach me **masterpiyaboot@gmail.com**
 
 - ⚡ Fun fact **I'm left handed**
 
