@@ -10,7 +10,7 @@
 <br/>
 
 
-- 🌱 I’m currently learning **VUE, C#**
+- 
 
 - 💬 Ask me about **C#,JAVA**
 
