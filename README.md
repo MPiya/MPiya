@@ -1,7 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Piyaboot Prasertsuwan aka. Bon</h1>
-<h3 align="center">A passionate developer who started from the Hello World now I'm here! </h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
+<h3 align="center">A passionate developer who started from the bottom with Hello World now I'm here deplyoing my own websites on Cloud Azure!</h3>
+
 <br/>
 
 
@@ -10,13 +10,11 @@
 <br/>
 
 
-- 
-
-- 💬 Ask me about **C#,JAVA**
+- 💬 Currently looking for a junior position as a java or .net developer. 
 
 - 📫 How to reach me **masterpiyaboot@gmail.com**
 
-- ⚡ Fun fact **I'm left handed**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
