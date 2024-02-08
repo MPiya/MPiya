@@ -1,5 +1,5 @@
-[![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Piyaboot Prasertsuwan aka. Bon</h1>
+
+<h1 align="center">Hi 👋, I'm Piyaboot Prasertsuwan </h1>
 <h3 align="center">Dev who started from the bottom with Hello World now I'm here deplyoing my own websites on Cloud Azure!</h3>
 
 <br/>
