@@ -10,7 +10,7 @@
 <br/>
 
 
-- 💬 Currently looking for a junior position as a java or .net developer. 
+- 💬 Currently looking for a Software Engineer position.
 
 - 📫 How to reach me **piyabootsuwan@gmail.com**
 
