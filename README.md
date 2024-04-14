@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Christopher and experienced .Net developer proficent in Full stack web development. </h1>
+<h1 align="center">Hi 👋, I'm Christopher Experienced .Net developer proficent in Full stack web development. </h1>
 <h3 align="center"> Passionate about deploying scalable solutions on Azure.</h3>
 <h3 align="center"> Check out my latest projects below! </h3>
 <br/>
