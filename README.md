@@ -7,10 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpiya&label=Profile%20views&color=0e75b6&style=flat" alt="mpiya" /> </p>
 
 ### About me 
-- 🙏 Thai&Danish  and based in Denmark :denmark:
+- 🙏 Thai&Danish  and based in Denmark
 - :computer: Full stack Software Developer who starts from Backend :iphone:
 - :earth_africa: Language Enthusiast, fluent in 3 languages and has acquired Español , Polski, and Français in international High school and college.
-- 💬 Currently looking for a Software Engineer position.
+- 💬 Currently looking for a Software Engineer position and willling to relocate around Europe.
 - 📫 How to reach me **chrisisincseu@gmail.com**
 <br/>
 
