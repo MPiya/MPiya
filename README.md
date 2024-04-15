@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpiya&label=Profile%20views&color=0e75b6&style=flat" alt="mpiya" /> </p>
 
 ### About me 
-- :wave: Thai&Danish :it: and based in Denmark :denmark:
+- 🙏 Thai&Danish :it: and based in Denmark :denmark:
 - :computer: Full stack Software Developer who starts from Backend :iphone:
 - :earth_africa: Language Enthusiast, fluent in 3 languages and has acquired Español , Polski, and Français in international High school and college.
 - 💬 Currently looking for a Software Engineer position.
@@ -16,7 +16,7 @@
 
 
 Last but not least enchanté, it means nice to meet you in French 😊
-<h3 align="left">You're welcome to connect with me</h3>
+<h3 align="left">You're welcome to connect with me, amigos 🙏</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/piyaboot-prasertsuwan-christopher-61a5a4172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyaboot-prasertsuwan-61a5a4172" height="30" width="40" /></a>
 </p>
