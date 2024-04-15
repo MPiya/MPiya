@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Piya also known as Christopher. Experienced .Net developer and proficent in Full stack web development. </h1>
-<h3 align="center">I always have fun and exciting ideas, and I turn them into reality. That's why I chose to learn programming when I was in grade 10, while also having a lot of fun playing League of Legends as a mid laner. </h3>
+<h3 align="center">I always have fun and exciting ideas, and I turn them into reality. That's why I chose to learn programming when I was in grade 10, while also having a lot of fun playing League of Legends as a mid laner 🔥🔥🔥</h3>
 
 <br/>
 
