@@ -8,7 +8,8 @@
 
 ### About me 
 - 🙏 Thai&Danish  and based in Denmark
-- :computer: Full stack Software Developer who starts from Backend :iphone:
+- :computer: Full stack Software Developer where .Net, Vue.Js and React, Docker and Azure are my main primary tech stacks.
+- 📚 Always excited and enjoy learning new skills, currently learning TensorFlow for Machine Learning and AI which is the future and the future is now!
 - :earth_africa: Language Enthusiast, fluent in 3 languages and has acquired Español , Polski, and Français in international High school and college.
 - 💬 Currently looking for a Software Engineer position and willling to relocate around Europe.
 - 📫 How to reach me **chrisisincseu@gmail.com**
