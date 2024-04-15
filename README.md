@@ -15,6 +15,7 @@
 <br/>
 
 
+Last but not least enchanté, it means nice to meet you in French :D
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/piyaboot-prasertsuwan-christopher-61a5a4172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyaboot-prasertsuwan-61a5a4172" height="30" width="40" /></a>
