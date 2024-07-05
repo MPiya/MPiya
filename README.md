@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Piya also known as Christopher. Experienced .Net developer and proficent in Full stack web development. </h1>
-<h3 align="center">Turn ideas into reality by programming🔥🔥🔥</h3>
+<h3 align="center">Turn ideas into reality by programming</h3>
 
 <br/>
 
