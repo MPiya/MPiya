@@ -6,8 +6,8 @@
 
 
 ### About me 
-- 🙏 Thai&Danish  and based in Denmark.
-- 📚 Always excited and enjoy learning new skills, currently learning TensorFlow for Machine Learning and AI which is the future and the future is now!
+- 🙏 Thai&Danish and based in Denmark.
+- 📚 Always excited to learn new skills and combine them to create projects, like building with LEGO bricks—each piece of knowledge is a brick that comes together to build something amazing.
 - 💻 Tech Stack
 - 🔧 Backend: TypeScript, C#
 - 🎨 Frontend: React, Vue.js, HTML/CSS
