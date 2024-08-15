@@ -9,8 +9,8 @@
 - 🙏 Thai&Danish and based in Denmark.
 - 📚 Always excited to learn new skills and combine them to create projects, like building with LEGO bricks—each piece of knowledge is a brick that comes together to build something amazing.
 - 💻 Tech Stack
-- 🔧 Backend: TypeScript, C#
-- 🎨 Frontend: React, Vue.js, HTML/CSS
+- 🔧 Backend: TypeScript, C#, MongoDb, MSSQL
+- 🎨 Frontend: React, Vue.js, HTML/CSS, Figma
 - 🚀 CI/CD: Docker, GitHub Actions
 - 🛠️ Tools: Large Language Models (LLMs) e.g. ChatGPT, Claude
 - 📫 How to reach me **chrisisincseu@gmail.com**
