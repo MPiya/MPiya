@@ -12,7 +12,7 @@
 - 🔧 Backend: TypeScript, C#, MongoDb, MSSQL
 - 🎨 Frontend: React, Vue.js, HTML/CSS, Figma
 - 🚀 CI/CD: Docker, GitHub Actions
-- 🛠️ Tools: Large Language Models (LLMs) e.g. ChatGPT, Claude
+
 - 📫 How to reach me **chrisisincseu@gmail.com**
 <br/>
 
