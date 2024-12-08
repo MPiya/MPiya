@@ -1,15 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Piya also known as Christopher. Experienced Developer and proficent in Full stack web development. </h1>
+<h1 align="center">Hi 👋, I'm Piya also known as Christopher. Experienced Developer  </h1>
 <h3 align="center">Turn ideas into reality by programming</h3>
 
 <br/>
 
 
 ### About me 
-- 🙏 Thai&Danish and based in Denmark.
-- 📚 Always excited to learn new skills and combine them to create projects, like building with LEGO bricks—each piece of knowledge is a brick that comes together to build something amazing.
 - 💻 Tech Stack
-- 🔧 Backend: TypeScript, C#, MongoDb, MSSQL
+- 🔧 Backend: TypeScript, .NET/C#, SQL, NOSQL
 - 🎨 Frontend: React, Vue.js, HTML/CSS
 - 🚀 CI/CD: Docker, GitHub Actions
 
