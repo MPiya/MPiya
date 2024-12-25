@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Piya also known as Christopher. Experienced Developer  </h1>
-<h3 align="center">Turn ideas into reality by programming</h3>
+<h3 align="center">When I was 15, I found Codecademy and learned programming from there and I decided I want to understand how software works and build cool stuff that impacts the society!  </h3>
 
 <br/>
 
