@@ -6,8 +6,7 @@
 <br/>
 
 
-### About me 
-- 💻 Tech Stack
+### Tech Stack
 - 🔧 Backend: TypeScript, .NET/C#, SQL, NOSQL
 - 🎨 Frontend: React, Vue.js, HTML/CSS
 - 🚀 CI/CD: Docker, GitHub Actions
