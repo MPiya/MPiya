@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Piya also known as Christopher. Experienced Developer  </h1>
 <h3 align="center">When I was 15, I found Codecademy and learned programming from there. </h3>
-<h3 align="center">And I decided I want to understand how software works and build cool stuff that impacts the society!   </h3>
+<h3 align="center">And I decided I want to understand how software works and build cool stuff that impacts the society! </h3>
+<h3 align="center">Today, I've contributed to open source, built a website that helps people pass their driving license in Denmark, and worked at PriceShape, helping business owners monitor their product prices in the market to ensure they can sell with the best possible profits.</h3>
 
 <br/>
 
