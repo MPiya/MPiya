@@ -4,7 +4,7 @@
 <h3 align="center">After highschool, I decided to study Computer Science. I want to understand how software works and build cool stuff that impacts the society! </h3>
 <h3 align="center">Today, I've contributed to open source, built a website that helps people pass their driving license in Denmark, and worked at PriceShape, helping business owners monitor their product prices in the market to ensure they can sell with the best possible profits!</h3>
 
-<h4 align="center"> And Yes you are right I know you probably thought this guy must like anime x</h4>
+ 
 <br/>
 
 
