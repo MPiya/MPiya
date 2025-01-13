@@ -1,5 +1,5 @@
 
-<h1 align="center">Kunichiwa, I'm Piya also known as Christopher. Experienced Developer  </h1>
+<h1 align="center">I'm Piya, Software Developer and I once won a League of legend tournament as an ADC   </h1>
 <h3 align="center">When I was 15, I found Codecademy and learned programming from there. </h3>
 <h3 align="center">After highschool, I decided to study Computer Science. I want to understand how software works and build cool stuff that impacts the society! </h3>
 <h3 align="center">Today, I've contributed to open source, built a website that helps people pass their driving license in Denmark, and worked at PriceShape, helping business owners monitor their product prices in the market to ensure they can sell with the best possible profits!</h3>
