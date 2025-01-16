@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Piya, a coder who believes there is always room to grow and improve 😊 </h1>
+<h1 align="center">Hi, I'm Piya, a coder who believes there is always rooms to grow and improve 😊 </h1>
 
 <br/>
 
