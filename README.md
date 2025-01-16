@@ -1,10 +1,6 @@
 
-<h1 align="center">Hi, I'm Piya, a coder who believes perfection is a myth—there's always room to grow and improve 😊 </h1>
-<h3 align="center">When I was 15, I found Codecademy and learned programming from there. </h3>
-<h3 align="center">After highschool, I decided to study Computer Science. I want to understand how software works and build cool stuff that impacts the society! </h3>
-<h3 align="center">Today, I've contributed to open source, built a website that helps people pass their driving license in Denmark, and worked at PriceShape, helping business owners monitor their product prices in the market to ensure they can sell with the best possible profits!</h3>
+<h1 align="center">Hi, I'm Piya, a coder who believes there is always room to grow and improve 😊 </h1>
 
- 
 <br/>
 
 
