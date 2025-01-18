@@ -9,10 +9,8 @@
 - 🎨 Frontend: React, Vue.js, HTML/CSS
 - 🚀 CI/CD: Docker, GitHub Actions
 
-- 📫 How to reach me **chrisisincseu@gmail.com**
-<br/>
-
-<h3 align="left">You're welcome to connect with me 🙏</h3>
+- 📫 How to reach me **chrisisincseu@gmail.com** and Linkedin 
+  
 <p align="left">
 <a href="https://www.linkedin.com/in/christopher-piya-prasertsuwan-61a5a4172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyaboot-prasertsuwan-61a5a4172" height="30" width="40" /></a>
 </p>
