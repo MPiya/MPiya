@@ -6,7 +6,7 @@
 
 ### Tech Stack
 - 🔧 Backend: TypeScript/Node.js, .NET/C#, SQL, NOSQL
-- 🎨 Frontend: React, Vue.js, HTML/CSS
+- 🎨 Frontend: React/Next.js, Vue.js, HTML/CSS
 - 🚀 CI/CD: Docker, GitHub Actions
 
 - 📫 How to reach me **chrisisincseu@gmail.com** and Linkedin 
