@@ -1,5 +1,5 @@
 
-<h1 align="center">I’m a backend expert who loves dabbling in frontend and crafting slick UX/UI and CI/CD. </h1>
+<h1 align="center">Programmer with passion for food, gaming and Dortmund fan </h1>
 
 <br/>
 
