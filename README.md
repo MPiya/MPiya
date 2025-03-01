@@ -7,7 +7,7 @@
 ### Tech Stack
 - 🔧 Backend: TypeScript/Node.js, .NET/C#, SQL, NOSQL
 - 🎨 Frontend: React/Next.js, Vue.js, HTML/CSS
-- 🚀 CI/CD: Docker, GitHub Actions, Azure, Vercel
+- 🚀 CI/CD: Docker, GitHub Actions, Cypress Azure, Vercel
 
 - 📫 How to reach me **chrisisincseu@gmail.com** and Linkedin 
   
