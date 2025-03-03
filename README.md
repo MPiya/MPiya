@@ -1,5 +1,5 @@
 
-<h1 align="center">Programmer with passion for food, gaming and Dortmund fan </h1>
+<h1 align="center">Programmer with a passion for software engineering, culinary arts, and gaming</h1>
 
 <br/>
 
