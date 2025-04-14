@@ -1,5 +1,5 @@
 
-<h1 align="center">Programmer with a passion for software engineering, culinary arts, and gaming</h1>
+<h1 align="center">Versatile Software Engineer </h1>
 
 <br/>
 
