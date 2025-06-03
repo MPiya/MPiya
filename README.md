@@ -5,7 +5,7 @@
 
 
 ### Tech Stack
-- Backend: TypeScript/Node.js, .NET/C#, SQL, NOSQL
+- Backend: TypeScript/Node.js, .NET/C#, MSSQL, MongoDB
 - Frontend: React/Next.js, Vue.js, HTML/CSS
 - CI/CD and other tools: Docker, GitHub Actions, Cypress, Azure, Vercel
 
